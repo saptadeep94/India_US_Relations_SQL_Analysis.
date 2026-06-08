@@ -1,0 +1,8 @@
+new_date,Date,"Politician Name",Designation,Country,Comment,Sentiment
+2019-09-27,2019-09-27,"Imran Khan","Prime Minister",Pakistan,"I am disappointed by the international community... If a war breaks out, anything can happen.",Negative
+2023-06-23,2023-06-23,"Mumtaz Zahra Baloch","Foreign Office Spokesperson",Pakistan,"The joint statement is unwarranted, one-sided, and misleading. It has political overtones.",Negative
+2023-09-10,2023-09-10,"Rishi Sunak","Prime Minister",UK,"The G20 has been a huge success... India is the right country at the right time.",Positive
+2024-09-26,2024-09-26,"Emmanuel Macron",President,France,"Germany, Japan, Brazil & India should be permanent members of the UNSC.",Positive
+2025-05-25,2025-05-25,"Wang Yi","Foreign Minister",China,"As an ironclad friend... China fully understands Pakistan's legitimate security concerns.",Negative
+2025-08-05,2025-08-05,"Dmitry Peskov","Kremlin Spokesperson",Russia,"New Delhi is free to choose its own trading partners... Trump's threats are efforts to compel nations to sever ties.",Neutral
+2025-08-21,2025-08-21,"Emmanuel Macron",President,France,"Had a very good conversation with my friend President Modi... agreed to strengthen strategic partnership.",Positive
