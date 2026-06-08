@@ -1,9 +1,0 @@
-"presidency era",sentiment,count(sentiment),percentage
-Biden,Positive,6,60.0
-Biden,Neutral,3,30.0
-Biden,Negative,1,10.0
-"Trump (Term 1)",Positive,3,42.9
-"Trump (Term 1)",Negative,3,42.9
-"Trump (Term 1)",Neutral,1,14.3
-"Trump (Term 2)",Positive,6,54.5
-"Trump (Term 2)",Negative,5,45.5
