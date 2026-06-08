@@ -1,0 +1,7 @@
+sentiment,COUNT(*),"politician name"
+Positive,11,"Narendra Modi"
+Negative,2,"S. Jaishankar"
+Neutral,1,"Rahul Gandhi"
+Neutral,1,"Narendra Modi"
+Negative,1,"Rahul Gandhi"
+Positive,1,"S. Jaishankar"
